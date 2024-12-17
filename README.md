@@ -1,5 +1,5 @@
 # Meu app
-limk do site como o professor ensinou: https://eukakau.github.io/layout%20wweb/
+link do site como o professor ensinou: https://eukakau.github.io/layout%20wweb/
 
 ## Getting Started
 
